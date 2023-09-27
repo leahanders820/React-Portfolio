@@ -1,6 +1,6 @@
 import './App.css';
-import Header from './components/Header';
-import Project from './components/Project';
+import Header from './components/Header.jsx';
+import Project from './components/Project.jsx';
 import { useState } from 'react';
 
 function App() {
